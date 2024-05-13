@@ -1,7 +1,6 @@
 package Problem_6;
 
 import java.util.Scanner;
-import java.util.concurrent.Callable;
 
 public class Circle_and_Sphere_Runner {
     public static void main(String[] args) {
