@@ -20,4 +20,3 @@ public class Two_Integer_Operation_Runner {
         System.out.println("Minimum = " + TwoInt.getMinimum());
     }
 }
-
